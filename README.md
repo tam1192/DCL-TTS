@@ -1,3 +1,2 @@
-# tam1192-DCL-ZUNTTS
-
-zundamontts
+# DCL-TTS
+TTSbotを作る勉強です。
